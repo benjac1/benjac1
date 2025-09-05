@@ -3,7 +3,7 @@ I'm Benjamín, a 21 years old junior front-end web developer from Argentina.
 
 - 🎯 Founder of [ComoJugarValorant](https://comojugarvalorant.vercel.app) – Your guide to mastering Valorant
 
-- 👨‍💻 Working at mechanic's assistant intermediate
+- 🔧 Working at mechanic's assistant 
 
 + a lot more coming soon ;)
 
@@ -18,12 +18,11 @@ I'm Benjamín, a 21 years old junior front-end web developer from Argentina.
 - ⚡ Vite
 - 🌐 HTML, CSS, Tailwind
 
-### Version Control
-- 🐙 Git, GitHub
-
 ### Tools / Environment
 - 🖥️ Terminal / Command Line
 - 📦 pnpm
+- 🐙 Git, GitHub
+
 
 ### Others
 - ✨ a lot more coming soon :D
